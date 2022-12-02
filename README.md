@@ -1,5 +1,9 @@
 # digit_classifier
 
+<img src=https://www.researchgate.net/profile/Khaled-Younis/publication/324877673/figure/fig1/AS:621604732141569@1525213525278/MNIST-dataset-of-handwritten-digits.png>
+
+---
+
 This project shows how to use machine learning models to analyze digit images. In addition, an extra part has been added where it is shown how you can create an interactive demo to show the model using [Gradio](https://github.com/gradio-app/gradio).  
 
 ---
